@@ -1,0 +1,8 @@
+# Nunca commitar suas credenciais reais
+Settings.h
+
+# Arquivos de build/temp do Arduino IDE
+*.bin
+*.elf
+*.hex
+build/
