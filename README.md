@@ -42,17 +42,27 @@ a mesma wallet (`akilaun`), alimentados por uma fonte chaveada compartilhada.
 ```
 rig_duino_coin/
 ├── README.md                  ← este arquivo (visão geral do projeto)
+├── ESP_Code/                  ← Código Oficial
+|   ├── Counter.h
+│   ├── Dashboard.h
+│   ├── DisplayHal.h
+│   ├── DSHA1.h
+│   ├── ESP_Code.ino
+│   ├── MiningJob.h
+│   └── Settings.h
 └── esp32-05-dashboard/        ← 5º ESP32: minerador + dashboard com display
-    ├── README.md               (passo a passo completo dessa unidade)
-    ├── ESP32_05_Dashboard.ino
-    ├── Settings.example.h
-    ├── WalletDashboard.h
-    ├── MiningJob.h
-    ├── DSHA1.h
-    ├── Counter.h
-    ├── User_Setup_GMT130.h
-    ├── teste_tela.ino
-    └── .gitignore
+    ├── README.md
+    ├── .gitignore
+    ├── User_Setup.h           ← Alterar o código da lib no diretório oficial do arduino
+    ├── ESP32_05_Dashboard/    
+    │   ├── ESP32_05_Dashboard.ino
+    │   ├── Settings.example.h
+    │   ├── WalletDashboard.h
+    │   ├── MiningJob.h
+    │   ├── DSHA1.h
+    │   └── Counter.h
+    └── teste_tela/                   ← teste isolado
+        └── teste_tela.ino
 ```
 
 Pastas futuras (ESP32 06, sensores, app mobile, etc.) serão adicionadas
