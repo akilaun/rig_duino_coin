@@ -2,7 +2,7 @@
 
 Repositório central do meu projeto de rig de mineração de [Duino-Coin](https://duinocoin.com)
 com ESP32 — documentado em vídeo no meu canal do YouTube:
-**[youtube.com/@akilaun](https://www.youtube.com/channel/UC6aZfeRosRB-X8SOLEL10vg)**
+**[Apenas Faça Você Mesmo](https://www.youtube.com/channel/UC6aZfeRosRB-X8SOLEL10vg)**
 
 Esse repositório agrupa todas as atividades, código e documentação da
 construção da rig, desde a montagem inicial até as atualizações futuras.
@@ -126,7 +126,7 @@ olho no canal pra acompanhar.
 - Repositório oficial do Duino-Coin: [github.com/duino-coin/duino-coin](https://github.com/duino-coin/duino-coin)
 - Site oficial: [duinocoin.com](https://duinocoin.com)
 - Meu fork (firmware dos ESP32 01–04): [github.com/akilaun/duino-coin](https://github.com/akilaun/duino-coin)
-- Meu canal no YouTube: [youtube.com/@akilaun](https://www.youtube.com/channel/UC6aZfeRosRB-X8SOLEL10vg)
+- Meu canal no YouTube: [Apenas Faça Você Mesmo](https://www.youtube.com/channel/UC6aZfeRosRB-X8SOLEL10vg)
 
 ---
 
